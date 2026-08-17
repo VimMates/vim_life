@@ -1,6 +1,8 @@
-# Lazygit
+# git - Lazygit
 
 https://github.com/jesseduffield/lazygit
+
+> simple terminal UI for git commands
 
 ##  Open lazygit via shortcut within a fullscreen popup
 
